@@ -21,7 +21,7 @@
 
 ## Deployment
 - GitHub: https://github.com/tocasper-eng/py_image
-- Zeabur: https://py-image-search.zeabur.app/
+- Zeabur: https://py-image-clip.zeabur.app/
 - Zeabur Project ID: 6aa208226c3d9581b7159e85
-- Zeabur Service ID: 6aa208f46c3d9581b7159ef4
+- Zeabur Service ID: 6aa20c336c3d9581b715a12a
 - Zeabur Environment ID: 6aa20822da9bc245fbcb5b87

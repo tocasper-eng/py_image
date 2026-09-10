@@ -5,7 +5,7 @@ A Google-style image search system using CLIP (ViT-B/32) for semantic similarity
 Supports text search, voice input, and camera/photo upload.
 
 ## Live Demo
-https://py-image-search.zeabur.app/
+https://py-image-clip.zeabur.app/
 
 ## Repository
 https://github.com/tocasper-eng/py_image
@@ -44,7 +44,9 @@ python app.py
 ## Deployment (Zeabur)
 - Platform: Zeabur (Tokyo server)
 - Project: py-image
-- Domain: py-image-search.zeabur.app
+- Service ID: 6aa20c336c3d9581b715a12a
+- Environment ID: 6aa20822da9bc245fbcb5b87
+- Domain: py-image-clip.zeabur.app
 - Build: Docker (python:3.11-slim + CPU-only PyTorch)
 - Redeploy: `zeabur deploy --name py_image --project-id 6aa208226c3d9581b7159e85 -i=false`
 
